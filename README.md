@@ -64,3 +64,10 @@ CareerLens-AI/
 │   └── index.html
 │
 └── uploads/
+## 📸 Project Screenshots
+
+### 🏠 Home Dashboard
+![CareerLens AI Home](uploads/home.png)
+
+### 💼 Job Match
+![CareerLens AI Job Match](uploads/job-match.png)
