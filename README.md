@@ -64,6 +64,8 @@ CareerLens-AI/
 │   └── index.html
 │
 └── uploads/
+
+```
 ## 📸 Project Screenshots
 
 ### 🏠 Home Dashboard
